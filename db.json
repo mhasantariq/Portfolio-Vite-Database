@@ -1,0 +1,103 @@
+{
+  "skills": [
+    {
+      "name": "SiReact",
+      "percent": "80",
+      "title": "React"
+    },
+    {
+      "name": "SiReactquery",
+      "percent": "80",
+      "title": "React Query"
+    },
+    {
+      "name": "SiReactrouter",
+      "percent": "80",
+      "title": "React Router"
+    },
+    {
+      "name": "SiRedux",
+      "percent": "80",
+      "title": "Redux"
+    },
+    {
+      "name": "BiLogoNodejs",
+      "percent": "90",
+      "title": "Node JS"
+    },
+    {
+      "name": "SiMongodb",
+      "percent": "70",
+      "title": "Mongo DB"
+    },
+    {
+      "name": "SiExpress",
+      "percent": "80",
+      "title": "Express JS"
+    },
+    {
+      "name": "FaSass",
+      "percent": "80",
+      "title": "Sass",
+      "color": "red"
+    },
+    {
+      "name": "SiStyledcomponents",
+      "percent": "90",
+      "title": "Styled components"
+    },
+    {
+      "name": "SiTailwindcss",
+      "percent": "90",
+      "title": "Tailwind Css"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Linked In",
+      "url": "https://www.linkedin.com/in/muhammad-hasan-tariq-490976221/",
+      "icon": "BiLogoLinkedin"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/mhasantariq",
+      "icon": "BiLogoGithub"
+    },
+    {
+      "name": "Instagram",
+      "url": "",
+      "icon": "BiLogoInstagram"
+    },
+    {
+      "name": "Twitter",
+      "url": "",
+      "icon": "BiLogoTwitter"
+    }
+  ],
+  "experience": [
+    {
+      "from": "Aug 2014",
+      "to": "Jan 2017",
+      "company": "Hasan",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "from": "Aug 2014",
+      "to": "Jan 2017",
+      "company": "Hasan",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "from": "Aug 2014",
+      "to": "Jan 2017",
+      "company": "Hasan",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "from": "Aug 2014",
+      "to": "Jan 2017",
+      "company": "Hasan",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  ]
+}
