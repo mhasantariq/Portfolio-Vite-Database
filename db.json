@@ -50,32 +50,6 @@
       "name": "SiTailwindcss",
       "percent": "90",
       "title": "Tailwind Css"
-    },
-    {
-      "name": "SiLaravel",
-      "percent": "90",
-      "title": "Laravel"
-    },
-    {
-      "name": "SiPhp",
-      "percent": "90",
-      "title": "PHP"
-    },
-    {
-      "name": "SiReduxsaga",
-      "percent": "90",
-      "title": "Redux Saga"
-    },
-    {
-      "name": "SiBootstrap",
-      "percent": "90",
-      "title": "Bootstrap"
-    }
-    ,
-    {
-      "name": "SiMysql",
-      "percent": "90",
-      "title": "MySQL"
     }
   ],
   "socials": [
