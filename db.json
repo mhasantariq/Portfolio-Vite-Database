@@ -101,16 +101,16 @@
   ],
   "experience": [
     {
-      "from": "Aug 2014",
+      "from": "Aug 2022",
       "to": "Jan 2017",
       "company": "Freelance",
-      "description": "Fixed alioth template performance issues for an IT Company."
+      "description": "Fixed alioth template performance issues in React for an IT Company"
     },
     {
-      "from": "Aug 2014",
-      "to": "Jan 2017",
-      "company": "Hasan",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      "from": "Aug 2023",
+      "to": "November 2023",
+      "company": "Renegade Furniture Group",
+      "description": "During my three month internship, I had the oppurtunity to witness an entire professional work flow. Working within teams, following a schedule, discussing about the improvements needed. Learning about <b>Bitbucket</b> and <b>Docker</b> was the most amazing thing i did. The other interesting thing i learned that they maintained their own package for everthing. The code organization is just truely amazing with this approach. <br/>  For Frontend: <br/> <ul><li><b>React JS</b></li><li><b>SCSS</b></li><li><b>Mockoon for delievering backend props</b></li><li><b>Hypernove SSR Rendering</b></li><li><b>Global State Management Library like Redux</b></li><li><b>Redux Saga</b></li></ul><br/> For Backend:<ul><li><b>PHP 8</b></li><li><b>Laravel 10</b></li><li><b>Postman endpoint testing</b></li><li><b>Doctrine</b></li></ul><li><b>PHP Unit Testing</b></li> <br/> For Databases: <ul><li><b>SQL</b></li><li><b>Mongo DB</b></li><li><b>Redis</b></li></ul>"
     }
   ]
 }
