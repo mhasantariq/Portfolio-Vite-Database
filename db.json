@@ -75,6 +75,11 @@
       "name": "SiReduxsaga",
       "percent": "90",
       "title": "Redux Saga"
+    },
+    {
+      "name": "SiAntdesign",
+      "percent": "90",
+      "title": "Ant Design"
     }
   ],
   "socials": [
